@@ -1,19 +1,17 @@
-<h1 align="center">Hello,There👋, I'm I am Harshvardhan</h1>
+<h1 align="center">Hello,There👋, I'm Ajay Kandare</h1>
 <h3 align="center">Software Engineer</h3>
 
 ![image](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasakii42&label=Profile%20views&color=0e75b6&style=flat" alt="hasakii42" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay-Kandare&label=Profile%20views&color=0e75b6&style=flat" alt="Ajay-Kandare" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasakii42" alt="hasakii42" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Ajay-Kandare" alt="Ajay-Kandare" /></a> </p>
 
-- 🔭 I’m currently working on [Blockchain and solidity based projects](https://github.com/hasakii42/Blockchain)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning 
 
-- 🤝 I’m looking for help to **Build project to captalize**
-
-- 📲  Visit my portfolio https://hasakii42.github.io/Portfolio/
+- 🤝 I’m looking for help to 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +25,4 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasakii42&show_icons=true&locale=en&layout=compact" alt="hasakii42" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasakii42&show_icons=true&locale=en" alt="hasakii42" /></p>
-
-![snakegif](https://github.com/hasakii42/hasakii42/blob/output/github-contribution-grid-snake.gif)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-Kandare&show_icons=true&locale=en&layout=compact" alt="Ajay-Kandare" /></p>
