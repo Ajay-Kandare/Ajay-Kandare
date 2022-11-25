@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Ajay-Kandare" alt="Ajay-Kandare" /></a> </p>
 
-- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning 
-
-- 🤝 I’m looking for help to 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
